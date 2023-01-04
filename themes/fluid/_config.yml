@@ -451,7 +451,6 @@ footer:
     police_code: 12345678
     # 公安备案的图片. 为空时不显示备案图片
     police_icon: /img/police_beian.png
-    <a href="https://icp.gov.moe/?keyword=20238880" target="_blank">萌ICP备20238880号</a>
 
 #---------------------------
 # 首页
