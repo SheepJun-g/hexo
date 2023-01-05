@@ -5,5 +5,7 @@ date: 2022-01-05 09:30:00
 tags:
 - 博客
 - Hexo
+- categories:
+- 教程
 comment: 'waline'
 ---
