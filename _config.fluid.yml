@@ -424,9 +424,11 @@ footer:
   # 页脚第一行文字的 HTML，建议保留 Fluid 的链接，用于向更多人推广本主题
   # HTML of the first line of the footer, it is recommended to keep the Fluid link to promote this theme to more people
   content: '
-    <p target="_blank" rel="nofollow noopener">博客框架:</p><a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a>
-    <i class="iconfont icon-love"></i>
-    <p target="_blank" rel="nofollow noopener">博客主题:</p><a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a>
+    <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>博客框架:Hexo</span></a>
+    <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>博客主题:Fluid</span></a>
+    <a href="http://sheep.ztym.cf"
+    <p>©2022-2023 SheepJun 版权所有</p>
+    </a>
   '
 
   # 展示网站的 PV、UV 统计数
