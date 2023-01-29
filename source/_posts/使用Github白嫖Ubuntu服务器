@@ -1,0 +1,21 @@
+---
+title: 使用Hexo搭建博客站点
+index_img: /img/example.jpg
+date: 2022-01-05 09:30:00
+comment: 'waline'
+categories:
+- 福利
+tags:
+- 白嫖
+- 服务器
+---
+>写在前面：这其实属于滥用行为，千万不要用大号试！！！
+在这篇文章里，我们将用[Github](https://github.com/)白嫖一个服务器。
+
+## 1.进入GitHub
+- 进不去的可以翻墙（建议用[Steam++](https://steampp.net/)）
+- 注册github账号
+
+## 2.进入环境
+- 来到[存储库](https://github.com/say12e/bt-in-githab-server/)下载Node.js(建议使用长期维护版)
+- ![](https://img1.imgtp.com/2023/01/05/sQBsrUa1.gif)
